@@ -1,5 +1,3 @@
-### Hi there, I'm Jonah 👋
-
 I am an economist and quantitative analyst specializing in asset pricing, macroeconomic modeling, and automated financial systems. 
 
 * 📈 Interests: Quantitative finance, time-series analysis, credit risk modeling, and decentralized finance (DeFi).
