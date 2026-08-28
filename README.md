@@ -1,8 +1,5 @@
 I am an economist and quantitative analyst specializing in asset pricing, macroeconomic modeling, and automated financial systems. 
-
-* 📈 Interests: Quantitative finance, time-series analysis, credit risk modeling, and decentralized finance (DeFi).
-* 💻 Tech Stack: Python (XGBoost, PyPDF, Web3.py), SQL, STATA, Solidity.
-* 📫 Reach me at: (https://www.linkedin.com/in/jonahingram-insight/)
+Reach me at: (https://www.linkedin.com/in/jonahingram-insight/)
 <!--
 **yo-nah/yo-nah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
